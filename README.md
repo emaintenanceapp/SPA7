@@ -4,7 +4,7 @@ inicialização front end ( abrindo aplicação)
     npm update 
     npm start  
     npm s 
-  
+   
 inicialização back end (abrindo swagger)
 
     ctrl + shift + b
